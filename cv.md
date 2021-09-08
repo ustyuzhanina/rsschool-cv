@@ -4,14 +4,16 @@
 ### Junior Frontend Developer
 
 ---
- 
+ > <img src="./images/author-photo.jpg" style="width: 100px; border-radius: 50%; box-shadow: 0 0 30px #ccc;" alt="Photo of Elena Ustyuzhanina">
+
 ### **Contact Information**
+- **Email:** elena.ustyuzhanina.rus@gmail.com
 
-> <img src="./images/author-photo.jpg" style="width: 100px; border-radius: 50%; box-shadow: 0 0 30px #ccc;" alt="Photo of Elena Ustyuzhanina">
+- **Phone:** +7 960 769 2424 (GMT+7)
 
-> **Email:** elena.ustyuzhanina.rus@gmail.com
-> **Phone:** +7 960 769 2424 (GMT+7)
-> **[LinkedIn](https://www.linkedin.com/in/elena-ustyuzhanina/)**
+- **[LinkedIn](https://www.linkedin.com/in/elena-ustyuzhanina/)**
+
+---
 
 ### **About me**
 I like creating something out of nothing (handicraft, photography, art, etc). Probably that is why I had worked for such a long time in procurement divisions at ambitious construction projects.
@@ -26,6 +28,8 @@ There is certainly a numerous list of things yet to learn and at the same time a
 
 The majority of my previous places of work implied minimum control from management. Moreover, it was not always possible to get advice on how to act in a particular situation. This nourished my ability of independent case analysis and self-organization.
 
+---
+
 ### **Hard Skills**
 - HTML5, CSS3, SCSS
 - Javascript (ES6)
@@ -35,6 +39,8 @@ The majority of my previous places of work implied minimum control from manageme
 - Node.js, Express, MongoDB
 - Webpack
 - OOP, BEM
+
+---
 
 ### **Code Example**
 [**Isograms**](https://www.codewars.com/kata/isograms) Kata from CodeWars:
@@ -46,6 +52,8 @@ function isIsogram(str){
   return str.length === (new Set(str.toLowerCase().split(""))).size;
 }
 ```
+
+---
 
 ### **Web Dev Education**
 [RS School](https://rs.school/) **JavaScript/Front-end Course** (in progress).
@@ -74,6 +82,8 @@ During the education process I have done a number of projects, all of which have
   - Links to GitHub: [Backend](https://github.com/ustyuzhanina/news-explorer-api), [Frontend](https://github.com/ustyuzhanina/news-explorer-frontend)
 
 ![Practicum by Yandex Certificate](./images/yandex-certificate.png)
+
+---
 
 ### **Languages**
 - Russian (native)
