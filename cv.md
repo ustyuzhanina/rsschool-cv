@@ -4,7 +4,7 @@
 ### Junior Frontend Developer
 
 ---
- > <img src="./images/author-photo.jpg" style="width: 100px; border-radius: 50%; box-shadow: 0 0 30px #ccc;" alt="Photo of Elena Ustyuzhanina">
+<img src="./images/author-photo.jpg" style="width: 100px; border-radius: 50%; box-shadow: 0 0 30px #ccc;" alt="Photo of Elena Ustyuzhanina">
 
 ### **Contact Information**
 - **Email:** elena.ustyuzhanina.rus@gmail.com
