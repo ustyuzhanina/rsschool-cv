@@ -1,15 +1,17 @@
 # [rsschool-cv](https://github.com/ustyuzhanina/rsschool-cv)
 
 # **Elena Ustyuzhanina**
+### Junior Frontend Developer
 
-## Junior Frontend Developer
+---
  
 ### **Contact Information**
-**[LinkedIn](https://www.linkedin.com/in/elena-ustyuzhanina/)**
-**Phone:** +7 960 769 2424 (GMT+7), Whatsapp available
-**E-mail:** elena.ustyuzhanina.rus@gmail.com
 
-<img src="./images/author-photo.jpg" style="width: 100px; border-radius: 50%; box-shadow: 0 0 50px #ccc;" alt="Photo of Elena Ustyuzhanina">
+> <img src="./images/author-photo.jpg" style="width: 100px; border-radius: 50%; box-shadow: 0 0 30px #ccc;" alt="Photo of Elena Ustyuzhanina">
+
+> **Email:** elena.ustyuzhanina.rus@gmail.com
+> **Phone:** +7 960 769 2424 (GMT+7)
+> **[LinkedIn](https://www.linkedin.com/in/elena-ustyuzhanina/)**
 
 ### **About me**
 I like creating something out of nothing (handicraft, photography, art, etc). Probably that is why I had worked for such a long time in procurement divisions at ambitious construction projects.
@@ -20,7 +22,7 @@ Eventually I have understood, that I do not want my job to define my location an
 
 At the moment I am a junior web developer and have accomplished the course of education in the Practicum by Yandex.
 
-There is certainly a numerous list of things yet to learn and at the same time apply the newly obtained hard skills in real life, but as **LinkedIn** CEO **Jeff Weiner** says, *soft skills are becoming more and more important nowadays*. And these skills are something that I have mastered during the years of work in construction projects procurement.
+There is certainly a numerous list of things yet to learn and at the same time apply the newly obtained hard skills in real life, but as **LinkedIn** CEO **Jeff Weiner** says, *soft skills are becoming more and more important nowadays*. And these skills are something that I have mastered during the 12+ years of work in construction projects procurement.
 
 The majority of my previous places of work implied minimum control from management. Moreover, it was not always possible to get advice on how to act in a particular situation. This nourished my ability of independent case analysis and self-organization.
 
@@ -46,9 +48,9 @@ function isIsogram(str){
 ```
 
 ### **Web Dev Education**
-[RS School](https://rs.school/) **JavaScript/Front-end** Course (in progress).
+[RS School](https://rs.school/) **JavaScript/Front-end Course** (in progress).
 
-In 2021 I have completed a **Web Development** Course at the [Practicum by Yandex](https://practicum.yandex.ru/).
+In 2021 I have completed a **Web Development Course** at the [Practicum by Yandex](https://practicum.yandex.ru/).
 During the education process I have done a number of projects, all of which have passed code review by experienced developers. Links to some of the projects are specified below:
 
 #### __*Learning how to learn*__
