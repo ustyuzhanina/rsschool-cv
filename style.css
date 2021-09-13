@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Inter',
+        sans-serif;
+    line-height: 1.5;
+}
+
+header {
+    max-width: 1000px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    flex-grow: 0;
+    margin: 0 auto;
+    margin-top: 12px;
+}
+
+.author {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.author img {
+    margin: 24px;
+}
+
+.author__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.author__name,
+.author__occupation {
+    color: rgb(63, 62, 62);
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.socials {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.socials a {
+    margin-right: 16px;
+}
+
+.socials a:last-of-type {
+    margin-right: 0;
+}
+
+.socials__link_linkedin:hover path:first-of-type {
+    fill: rgb(63, 62, 62);
+}
+
+.socials__link_github:hover path {
+    fill: rgb(63, 62, 62);
+}
+
+.socials__link_gmail:hover path {
+    fill: rgb(63, 62, 62);
+}
+
+.socials__link_gmail:hover polygon {
+    fill: rgb(63, 62, 62);
+}
+
+.contacts__phone {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.contacts__phone a {
+    text-decoration: none;
+    color: black;
+}
+
+.contacts__phone a:hover {
+    color: rgb(63, 62, 62);
+    ;
+}
+
+main {
+    max-width: 1000px;
+    width: 80%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    flex-grow: 1;
+    background-color: azure;
+    margin: 0 auto;
+}
+
+footer {
+    max-width: 1000px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-grow: 0;
+    margin: 0 auto;
+}
