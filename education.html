@@ -61,24 +61,95 @@
 
         <nav>
             <ul>
-                <li class="current"><a href="#">About me</a></li>
+                <li><a href="./index.html">About me</a></li>
                 <li><a href="./hard-skills.html">Hard Skills</a></li>
                 <li><a href="./code-example.html">Code Example</a></li>
-                <li><a href="./education.html">Web Dev Education</a></li>
+                <li class="current"><a href="#">Web Dev Education</a></li>
             </ul>
         </nav>
 
         <div class="main__container">
 
-            <h2 class="main__title">About me</h2>
-            <p class="main__p">I like creating something out of nothing (handicraft, photography, art, etc). Probably that is why I had worked for such a long time in procurement divisions at ambitious construction projects.</p>
-            <p class="main__p">Project work ensured decent income, but had a significant flaw of obligatory relocation to the actual place of construction, which should had been changed every time along with changes in the work process.</p>
-            <p class="main__p">Eventually I have understood, that I do not want my job to define my location and dictate inconvenient and inefficient conditions for development, and started searching for the fields of activities enabling more flexibility and opportunity of remote work.</p>
-            <p class="main__p">At the moment I am a junior web developer and have accomplished the course of education in the Practicum by Yandex.</p>
-            <p class="main__p">There is certainly a numerous list of things yet to learn and at the same time apply the newly obtained hard skills in real life, but as LinkedIn CEO Jeff Weiner says, soft skills are becoming more and more important nowadays. And these skills are something that I have mastered during the 12+ years of work in construction projects procurement.</p>
-            <p class="main__p">The majority of my previous places of work implied minimum control from management. Moreover, it was not always possible to get advice on how to act in a particular situation. This nourished my ability of independent case analysis and self-organization.</p>
+            <h2 class="main__title">Web Dev Education</h2>
+            <h3 class="main__subtitle"><a href="https://rs.school/" target="_blank">RS School</a> JavaScript/Front-end Course <span> - in progress</span></h3>
+
+            <h3 class="main__subtitle"><a href="https://practicum.yandex.ru/" target="_blank"> Practicum by Yandex</a> Web Development Course <span> - <a href="#practicum-cert">completed in 2021</a></span></h3>
+            <p class="main__p">During the education process I have done a number of projects, all of which have passed code review by experienced developers. Links to some of the projects are specified below:</p>
+
+            <div class="main__article-container">
+
+                <article>
+                    <div>
+                        <h3>News Explorer</h3>
+                        <p>A diploma project for a full-stack website development with a user registration feature. I have connected the website to a 3rd-party news-aggregator API and to a self-made API for users registration and saving news in a personal account area.</p>
+                        <p>The website can be found on GH Pages and on Yandex.Cloud hosting facility (I have started the server and obtained SSL certificates) at <a href="https://news4u.xyz/" target="_blank">https://news4u.xyz/</a></p>
+                        <p><span>GitHub repo: </span><a href="https://github.com/ustyuzhanina/news-explorer-api" target="_blank"> Backend</a></p>
+                        <p><span>GitHub repo: </span><a href="https://github.com/ustyuzhanina/news-explorer-frontend" target="_blank">Frontend</a></p>
+                    </div>
+
+                    <a class="main__img-link" href="https://news4u.xyz/" target="_blank">
+                        <img class="article__img" src="./images/article-img-3.png">
+                        <p class="article__hidden-link">Go to the website &rarr;</p>
+                    </a>
+                </article>
+
+                <article>
+                    <div>
+                        <h3>Travel accross Russia</h3>
+                        <p><span>Description:</span> A demo project for mastering form validation through the use of regular expressions specified in markup patterns in compliance with specific technical task requirements (without JS).</p>
+                        <p><span>Technologies:</span> CSS3, HTML5, BEM, RegExp.</p>
+                        <p><span>GitHub repo: </span><a href="https://github.com/ustyuzhanina/sprint-4-adaptive-css" target="_blank">https://github.com/ustyuzhanina/sprint-4-adaptive-css</a></p>
+                    </div>
+
+                    <a class="main__img-link" href="https://ustyuzhanina.github.io/sprint-4-adaptive-css/" target="_blank">
+                        <img class="article__img" src="./images/article-img-2.png">
+                        <p class="article__hidden-link">Go to the website &rarr;</p>
+                    </a>
+                </article>
+
+                <article>
+                    <div>
+                        <h3>Mesto Project</h3>
+                        <p><span>Description:</span> A demo project for learning Webpack startup and ES6 Javascript syntax. The website enables saving the user's information, adding photographs and viewing a close-up of every photo.</p>
+                        <p>The website was connected to the 3rd-party API.</p>
+                        <p><span>Technologies:</span> ES6, Babel, OOP, CSS3, HTML5, Webpack, OOP, BEM</p>
+                        <p><span>GitHub repo: </span><a href="https://github.com/ustyuzhanina/sprint-11-Mesto-webpack" target="_blank">https://github.com/ustyuzhanina/sprint-11-Mesto-webpack</a></p>
+                    </div>
+
+                    <a class="main__img-link" href="https://ustyuzhanina.github.io/sprint-11-Mesto-webpack/" target="_blank">
+                        <img class="article__img" src="./images/article-img-4.png">
+                        <p class="article__hidden-link">Go to the website &rarr;</p>
+                    </a>
+                </article>
+
+                <article>
+                    <div>
+                        <h3>Learning how to learn</h3>
+                        <p><span>Description:</span> A static one-page website with text and video content with advice on self-eductaion best practices.</p>
+                        <p><span>Technologies:</span> CSS3(animation, transform, flex-box), HTML5</p>
+                        <p><span>GitHub repo: </span><a href="https://github.com/ustyuzhanina/sprint-02-to-learn-how-to-learn" target="_blank">https://github.com/ustyuzhanina/sprint-02-to-learn-how-to-learn</a></p>
+                    </div>
+
+                    <a class="main__img-link" href="https://ustyuzhanina.github.io/sprint-02-to-learn-how-to-learn/" target="_blank">
+                        <img class="article__img" src="./images/article-img-1.png">
+                        <p class="article__hidden-link">Go to the website &rarr;</p>
+                    </a>
+                </article>
+
+            </div>
+
 
         </div>
+
+        <div class="main__container">
+
+            <figure id="practicum-cert">
+                <img class="main__certificate" src="./images/yandex-certificate.png" alt="Practicum by Yandex Certificate">
+                <figcaption>Practicum by Yandex Web Development Course Certificate</figcaption>
+            </figure>
+
+        </div>
+
 
 
 
@@ -92,10 +163,10 @@
             </div>
             <div class="lists">
                 <ul>
-                    <li><a href="#">About me</a></li>
+                    <li><a href="./index.html">About me</a></li>
                     <li><a href="./hard-skills.html">Hard Skills</a></li>
                     <li><a href="./code-example.html">Code Example</a></li>
-                    <li><a href="./education.html">Web Dev Education</a></li>
+                    <li><a href="#">Web Dev Education</a></li>
                 </ul>
                 <ul>
                     <li><a href="https://www.linkedin.com/in/elena-ustyuzhanina/" target="_blank">LinkedIn</a></li>

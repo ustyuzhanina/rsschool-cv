@@ -61,22 +61,26 @@
 
         <nav>
             <ul>
-                <li class="current"><a href="#">About me</a></li>
+                <li><a href="./index.html">About me</a></li>
                 <li><a href="./hard-skills.html">Hard Skills</a></li>
-                <li><a href="./code-example.html">Code Example</a></li>
+                <li class="current"><a href="#">Code Example</a></li>
                 <li><a href="./education.html">Web Dev Education</a></li>
             </ul>
         </nav>
 
         <div class="main__container">
 
-            <h2 class="main__title">About me</h2>
-            <p class="main__p">I like creating something out of nothing (handicraft, photography, art, etc). Probably that is why I had worked for such a long time in procurement divisions at ambitious construction projects.</p>
-            <p class="main__p">Project work ensured decent income, but had a significant flaw of obligatory relocation to the actual place of construction, which should had been changed every time along with changes in the work process.</p>
-            <p class="main__p">Eventually I have understood, that I do not want my job to define my location and dictate inconvenient and inefficient conditions for development, and started searching for the fields of activities enabling more flexibility and opportunity of remote work.</p>
-            <p class="main__p">At the moment I am a junior web developer and have accomplished the course of education in the Practicum by Yandex.</p>
-            <p class="main__p">There is certainly a numerous list of things yet to learn and at the same time apply the newly obtained hard skills in real life, but as LinkedIn CEO Jeff Weiner says, soft skills are becoming more and more important nowadays. And these skills are something that I have mastered during the 12+ years of work in construction projects procurement.</p>
-            <p class="main__p">The majority of my previous places of work implied minimum control from management. Moreover, it was not always possible to get advice on how to act in a particular situation. This nourished my ability of independent case analysis and self-organization.</p>
+            <h2 class="main__title">Code Example</h2>
+            <h3 class="main__subtitle"><a href="https://www.codewars.com/kata/isograms" target="_blank">Isograms</a> Kata from CodeWars:</h3>
+            <p class="main__p">An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.</p>
+
+            <pre>
+              <code>
+function isIsogram(str){
+  return str.length === (new Set(str.toLowerCase().split(""))).size;
+}
+              </code>
+            </pre>
 
         </div>
 
@@ -92,9 +96,9 @@
             </div>
             <div class="lists">
                 <ul>
-                    <li><a href="#">About me</a></li>
+                    <li><a href="./index.html">About me</a></li>
                     <li><a href="./hard-skills.html">Hard Skills</a></li>
-                    <li><a href="./code-example.html">Code Example</a></li>
+                    <li><a href="#">Code Example</a></li>
                     <li><a href="./education.html">Web Dev Education</a></li>
                 </ul>
                 <ul>
