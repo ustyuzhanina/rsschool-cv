@@ -87,7 +87,7 @@ During the education process I have done a number of projects, all of which have
 
 ### **Languages**
 - Russian (native)
-- English (C2) - Cambridge English Level 3 Certificate in ESOL International (Proficiency) 
+- English (C2) - Cambridge English Level 3 Certificate in ESOL International (Proficiency)
 
 ![CPE certificate (page 1)](./images/cpe-page-1.jpg)
 
