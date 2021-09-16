@@ -452,6 +452,10 @@ footer {
     font-weight: 300;
 }
 
+.footer__copyright-container a {
+    color: white;
+}
+
 footer .lists {
     display: flex;
     flex-direction: row;
@@ -474,6 +478,28 @@ footer .lists ul li a {
 
 footer .lists ul li:hover a {
     color: rgb(212, 209, 209);
+}
+
+.rs_school-logo-link {
+    display: block;
+    width: 80px;
+    margin: 20px 10px 15px 0;
+}
+
+.rs_school-logo {
+    width: 80px;
+    height: auto;
+    background-color: azure;
+    border-radius: 4px;
+    padding: 4px;
+    opacity: .7;
+}
+
+.rs_school-logo-link:hover .rs_school-logo,
+.rs_school-logo-link:active .rs_school-logo {
+    opacity: 1;
+    transition: opacity .05s ease-in .05s;
+
 }
 
 
@@ -658,10 +684,6 @@ footer .lists ul li:hover a {
         max-width: 250px;
     }
 
-    .footer__copyright {
-        margin-bottom: 30px;
-    }
-
     footer .lists {
         padding-bottom: 60px;
     }
@@ -675,10 +697,6 @@ footer .lists ul li:hover a {
     .author img {
         display: none;
     }
-
-    /* .main__container {
-        position: relative;
-    } */
 
     .xs-screen-img {
         display: block;
