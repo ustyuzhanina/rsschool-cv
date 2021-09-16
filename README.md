@@ -1,4 +1,4 @@
 # rsschool-cv
 
-[Link to a CV webpage](https://ustyuzhanina.github.io/rsschool-cv/cv)
+[Link to a CV webpage](https://ustyuzhanina.github.io/rsschool-cv/)
 
